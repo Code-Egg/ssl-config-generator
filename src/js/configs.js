@@ -179,4 +179,12 @@ module.exports = {
     tls13: '2.0.0',
     usesOpenssl: false,
   },
+  openlitespeed: {
+    latestVersion: '1.8.3',
+    eolBefore: '1.4.35',
+    name: 'OpenLiteSpeed',
+    supportsOcspStapling: '1.2',
+    tls13: '1.4.35',
+    usesOpenssl: false,
+  },
 };
